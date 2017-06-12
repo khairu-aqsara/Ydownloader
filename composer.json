@@ -1,0 +1,21 @@
+{
+    "name": "khairu/ydownloder",
+    "description": "Youtube Video Downloder v.0.1",
+    "type": "library,comoser-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khairu Aqsara Sudirman",
+            "email": "khairu.aqsara@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"rmccue/requests": ">=1.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "Khairu\\Ydownloader\\":"Khairu/Ydownloader/src"
+        }
+    }
+}
