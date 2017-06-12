@@ -24,3 +24,4 @@ print_r($respon);
 ## Install
 
 clone this repository or download the sources, then run `composer update` then you good to go
+[Relases Download](https://github.com/khairu-aqsara/Ydownloader/releases)
